@@ -1,0 +1,3 @@
+#define REDIS_GIT_SHA1 "66cb2648"
+#define REDIS_GIT_DIRTY "0"
+#define REDIS_BUILD_ID "juho-ThinkPad-P53-1598271205"
